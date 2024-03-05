@@ -3,9 +3,9 @@ A simple Vite + React App with Flask backend that accepts CSV file submissions.
 
 # Dependencies
 ## Python (/backend/requirements.txt)
-Flask==3.0.2
-Flask-Cors==4.0.0
-Werkzeug==3.0.1
+Flask==3.0.2  
+Flask-Cors==4.0.0  
+Werkzeug==3.0.1  
 
 Vite/React dependencies can be found in /frontend/packages.json
 
